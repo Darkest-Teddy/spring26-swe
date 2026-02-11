@@ -1,3 +1,3 @@
 # spring26-swe
 
-This is an edit from VIM!i
+This is an edit from VIM!
